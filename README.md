@@ -1,4 +1,4 @@
-# Microsoft Graph Models SDK 
+# Microsoft Graph Models SDK [Carthage fixed version]
 
 
 Get started with the Microsoft Graph Models SDK for ObjectiveC by integrating it into your iOS and MacOS applications!
@@ -16,7 +16,7 @@ You can use [CocoaPods](https://cocoapods.org/) to remain up to date with our la
   ```
 
 
-### Using Carthage
+### Using Carthage [FIXED]
 
 
 
@@ -32,7 +32,7 @@ You can also chose to use [Carthage](https://github.com/Carthage/Carthage) for p
 
 ```
 
-github "microsoftgraph/msgraph-sdk-objc-models" "master"
+github "iivanu/msgraph-sdk-objc-models" "dev"
 
 ```
 
