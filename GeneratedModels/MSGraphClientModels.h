@@ -3,6 +3,7 @@
 
 
 #import "MSDate.h"
+#import "MSCollection.h"
 #import "MSTimeOfDay.h"
 #import "MSDuration.h"
 #import "MSGraphAppliedConditionalAccessPolicyResult.h"
